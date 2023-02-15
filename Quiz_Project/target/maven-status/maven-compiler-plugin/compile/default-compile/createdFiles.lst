@@ -1,0 +1,8 @@
+com\quiz\main\controller\MainController.class
+com\quiz\main\service\QuizService.class
+com\quiz\main\SpringBootQuizAppApplication.class
+com\quiz\main\model\Result.class
+com\quiz\main\repository\ResultRepo.class
+com\quiz\main\model\QuestionForm.class
+com\quiz\main\model\Question.class
+com\quiz\main\repository\QuestionRepo.class
